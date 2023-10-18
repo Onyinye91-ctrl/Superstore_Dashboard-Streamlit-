@@ -46,5 +46,11 @@ The dataset contains 21 columns and 9994 rows. Here are the columns:
 * To filter by Year and Month - first select month then Year.
 * To filter by Quater and Year - dirst select quater then Year.
 
-Link to streamlit dashboard can be found [Here](https://m35jf2fj6buemnvpxvmwfk.streamlit.app/) 
+Link to streamlit dashboard can be found [Here](https://m35jf2fj6buemnvpxvmwfk.streamlit.app/)
+
+### More Features to add
+I will like to add the difference in **total sales**, **profit**, **discount**, **orders**, **customers**, and **quanity** using the delta parameter in `st.metrics()`.
+
+
+**Part 2** (Coming soon) will be on Time Series Forecast of Superstores Sales.
       
