@@ -19,7 +19,8 @@ if fl is not None:
     st.write(filename)
     df = pd.read_csv(filename, encoding = "latin1")
 else:
-    url = ("C:/Users/Sandra/Desktop/DA Projects/Kaggle/Test.csv")
+    url = "https://raw.githubusercontent.com/Onyinye91-ctrl/Superstore_Dashboard-Streamlit-/main/Test.csv"
+    # url = ("C:/Users/Sandra/Desktop/DA Projects/Kaggle/Test.csv")
     df = pd.read_csv(url, encoding = "latin1")
 
 
