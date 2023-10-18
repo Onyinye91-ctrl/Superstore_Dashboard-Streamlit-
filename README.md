@@ -1,6 +1,6 @@
 # Superstore_Dashboard-Streamlit-
 
-### This project shows my kagglex project (part 1)
+### This project shows my kaggleX Mentorship Project (part 1)
 The part 1 shows the data exploration and visualization od superstores dataset. The data exploration and visualixzation include the following:
 * **Product Analysis**
     * Segment, Category and Sub-category of Products and sales
