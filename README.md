@@ -19,6 +19,8 @@ The part 1 shows the data exploration and visualization od superstores dataset. 
 Superstore Sales generally refer to the sales data and performance of a superstore or a large retail store that offers a wide range of products and merchandise. These superstores are typically known for their extensive inventory, competitive pricing, and one-stop shopping experience.
 Analyzing superstore sales data is essential for store owners, managers, and analysts to understand the store's performance, identify trends, and make informed business decisions.
 
+The Dataset used can be found on Kaggle with this link [Here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 The dataset contains 21 columns and 9994 rows. Here are the columns:
 * **Row ID** -  Row ID
 * **Order ID** - Order ID
