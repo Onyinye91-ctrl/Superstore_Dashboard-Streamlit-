@@ -21,28 +21,28 @@ Analyzing superstore sales data is essential for store owners, managers, and ana
 
 The Dataset used can be found on Kaggle with this link [Here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-The dataset contains 21 columns and 9994 rows. Here are the columns:
-* **Row ID** -  Row ID
-* **Order ID** - Order ID
-* **Order Date** - Order Date
-* **Ship Date** - Mode of Shipping
-* **Ship Mode** - Mode of Shipping
-* **Customer ID** - Customer ID
-* **Customer Name** - Name of the Customers
-* **Segment** - Segment of Customers
-* **Country** - Country for order and shipping
-* **City** - City for order and shipping
-* **State** - State for order and shipping
-* **Postal Code** - Postal code
-* **Region** - Regions for order and shipping
-* **Product ID** - Products ID
-* **Category** - Products category
-* **Sub-Category** - Products sub-category
-* **Product Name** - Product Name
-* **Sales** - Sales for products
-* **Quantity** - Quantity sold
-* **Discount** - products discounts
-* **Profit** - profits
+The dataset contains `21 columns` and `9994 rows`. Here are the columns:
+* **Row ID** -  Unique ID for each row
+* **Order ID** - Unique Order ID for each Customer.
+* **Order Date** - Order Date of the product.
+* **Ship Date** - Shipping Date of the Product.
+* **Ship Mode** - Shipping Mode specified by the Customer.
+* **Customer ID** - Unique ID to identify each Customer.
+* **Customer Name** - Name of the Customer.
+* **Segment** - The segment where the Product belongs
+* **Country** - Country of residence of the Customer.
+* **City** - City of residence of the Customer.
+* **State** - State of residence of the Customer.
+* **Postal Code** - Postal Code of every Customer.
+* **Region** - Region where the Customer belong.
+* **Product ID** - Unique ID of the Product.
+* **Category** - Category of the product ordered.
+* **Sub-Category** - Sub-Category of the product ordered.
+* **Product Name** - Name of the Product
+* **Sales** - Sales of the Product.
+* **Quantity** - Quantity of the Product.
+* **Discount** - Discount provided.
+* **Profit** - Profit/Loss incurred.
 
 ### How to use the Year, Month and Quater Filter
 * To filter by Year and Month - first select month then Year.
